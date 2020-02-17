@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.53662bdd.chunk.css",
+    "main.js": "./static/js/main.fc152be2.chunk.js",
+    "main.js.map": "./static/js/main.fc152be2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b8411b11.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b8411b11.js.map",
+    "static/css/2.1265153d.chunk.css": "./static/css/2.1265153d.chunk.css",
+    "static/js/2.0227ecb9.chunk.js": "./static/js/2.0227ecb9.chunk.js",
+    "static/js/2.0227ecb9.chunk.js.map": "./static/js/2.0227ecb9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d27da54034c7c36a318389928df8dbf0.js": "./precache-manifest.d27da54034c7c36a318389928df8dbf0.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.1265153d.chunk.css.map": "./static/css/2.1265153d.chunk.css.map",
+    "static/css/main.53662bdd.chunk.css.map": "./static/css/main.53662bdd.chunk.css.map",
+    "static/js/2.0227ecb9.chunk.js.LICENSE.txt": "./static/js/2.0227ecb9.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "./static/media/1.4c0f1538.jpg",
+    "static/media/2.jpg": "./static/media/2.65d21a20.jpg",
+    "static/media/3.jpg": "./static/media/3.8606624c.jpg",
+    "static/media/4.jpg": "./static/media/4.b534b918.jpg",
+    "static/media/5.jpg": "./static/media/5.bc3f1bb9.jpg",
+    "static/media/6.jpg": "./static/media/6.b369f779.jpg",
+    "static/media/7.jpg": "./static/media/7.0fa7fdfc.jpg",
+    "static/media/input.png": "./static/media/input.a385738b.png",
+    "static/media/App.css": "./static/media/王子的爱情.ea25a8ae.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8411b11.js",
+    "static/css/2.1265153d.chunk.css",
+    "static/js/2.0227ecb9.chunk.js",
+    "static/css/main.53662bdd.chunk.css",
+    "static/js/main.fc152be2.chunk.js"
+  ]
+}
